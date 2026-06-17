@@ -22,15 +22,15 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/anujku-napx/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:anuj.ku8188@gmai.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Infernapx">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
