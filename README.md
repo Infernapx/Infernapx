@@ -47,11 +47,11 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Your Name
-role: Software Engineer | AI Engineer
+name: Anuj Kumar
+role: Software Engineer | AI Engineer | Devops
+
 focus:
   - Scalable Software Systems
   - Artificial Intelligence
   - Machine Learning
-  - Full Stack Development
   - Cloud Native Engineering
